@@ -40,5 +40,7 @@ Informar o que precisar ter pra instalar.
 ## Meta
 
 Gustavo NiD - [@NiDft](https://twitter.com/NiDft) - gugu.ti@gmail.com
+
 Distribuido sobre a licença. veja `LICENÇA`para mais informações.
+
 [https://github.com/GustavoNiD/Gustavo-Geek](https://github.com/GustavoNiD)
